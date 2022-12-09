@@ -1,0 +1,66 @@
+.aligncenter{
+    text-align: center;
+}
+
+.table1 { box-shadow: 0px 0px 3px #888; 
+  border-collapse:separate; 
+  border-width:thin;
+  border-spacing: 3em;
+  table-layout: fixed;
+  width: 70%;
+  border-style:dashed;
+  border-color: black;
+}
+
+.csize{
+    font-size: 30px;
+    color: #22699c;
+}
+
+.font{
+  font-family: Arial, Helvetica, sans-serif;
+}
+a:link {
+    color: blue;
+  }
+
+  a:visited {
+    color: blue;
+  }
+
+  a:hover {
+    color: rgb(14, 14, 160);
+  }
+
+  a:active {
+    color: blue;
+  }
+
+.table2 { 
+  margin-left:auto;
+  margin-right:auto;
+  border-spacing: 1em;
+}
+input[type=text], select {
+  width: 100%;
+  padding: 12px 20px;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+
+div {
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+  
+}
+
+.bg{
+  background-image: url('https://www.petbarn.com.au/petspot/app/uploads/2014/01/46.-Bichon-Frise.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+
